@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +24,5 @@ Things you may want to cover:
 * ...
 =======
 # Image_Gallery
->>>>>>> c83aec31ca33be0441cece3c1c4ffc7b704ee857
+
+Ruby On Rails를 이용한 갤러리 페이지 제작 프로젝트
